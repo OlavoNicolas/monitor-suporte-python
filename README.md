@@ -20,6 +20,12 @@ Este projeto centraliza esses diagnósticos em uma única ferramenta, permitindo
 * Registro de logs estruturados em banco de dados
 * Organização modular do código
 
+## Demonstração
+
+<p align="center">
+<video src="https://github.com/user-attachments/assets/8d102a73-fcf7-416c-bc24-eed64d98997a" width="600" autoplay loop muted playsinline></video>
+</p>
+
 ## Comandos implementados
 
 ### 1. Conectividade (ping)
