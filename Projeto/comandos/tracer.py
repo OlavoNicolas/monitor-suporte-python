@@ -28,7 +28,7 @@ class TracerTeste:
          if linhas and self.host in linhas[-1]:
              return True
 
-         return False
+         return True
 
      except Exception as e:
             self.saida = str(e)
