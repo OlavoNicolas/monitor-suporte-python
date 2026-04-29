@@ -1,6 +1,6 @@
 # Monitor de Suporte (Python)
 
-Ferramenta de diagnóstico de rede e sistema desenvolvida em Python, com execução multiplataforma <b>(Linux/Windows)<b/> e persistência de logs em <b>SQLite.<b/>
+Ferramenta de diagnóstico de rede e sistema desenvolvida em Python, com execução multiplataforma **(Linux/Windows)** e persistência de logs em **SQLite.**
 > Projeto focado em simular cenários reais de suporte técnico, automatizando verificações essenciais e organizando os resultados para análise.
 
 ## Proposta
